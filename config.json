@@ -1,0 +1,21 @@
+{
+
+    "Client": {
+        "botToken": "",
+        "botPrefix": ".",
+        "botClientID": "",
+        "botServerID": ""
+
+    },
+
+    "RegChannel": {
+        "ID": ["1225379883832573962","1225379896147181588","1225379897149620294"]
+    },
+
+    "Database": {
+
+        "mongooseURL": "mongodb+srv://firstclassrpv:IRX7EQEaLS26EB2R@cluster0.scu9bb9.mongodb.net/qwecanqe"
+
+    }
+
+}
